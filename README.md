@@ -48,7 +48,11 @@ We looked at the data from the point of view of a coastal tourism authority. The
 - Florida is the state with the most incidents (1,200).
 - In Florida, the year with the most incidents was 2003 (45) and the month with the most incidents was September (187).
 
-**H2:** [to be completed]
+**H2: - supported** 
+- Based on all records in the dataset (all years and all incident types).
+- Surfing is the activity with the most incidents: 1,471 (20.6% of all records).
+- Swimming comes second with 1,278 incidents, 193 fewer than surfing.
+- Fishing (834), diving (572) and spearfishing (489) follow.
 
 **H3: – supported**
 
