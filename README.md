@@ -74,7 +74,7 @@ We looked at the data from the point of view of a coastal tourism authority. The
 
 ## Presentation
 
-Slides: [add after presentation]
+Slides: [https://docs.google.com/presentation/d/1N94bQWtUjDHFXKy2xSwaIaPm4xqhpBOtrG41ZD_uiJY/edit?usp=sharing]
 
 ## Team
 
