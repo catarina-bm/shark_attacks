@@ -17,7 +17,7 @@ We looked at the data from the point of view of a coastal tourism authority. The
 - **H1 – Geographic concentration:** The USA and Australia account for the majority of recorded shark incidents.
 - **H2 – Activity:** Surfing is the activity associated with the highest number of recorded shark incidents.
 - **H3 – Incident type:** Unprovoked incidents account for the majority of provoked and unprovoked incidents combined.
-- **H4 – Fatality (optional):** Most recorded shark incidents with known outcomes are non-fatal.
+- **H4 – Fatality:** Most recorded shark incidents with known outcomes are non-fatal.
 
 ## Dataset
 
@@ -50,9 +50,16 @@ We looked at the data from the point of view of a coastal tourism authority. The
 
 **H2:** [to be completed]
 
-**H3:** [to be completed]
+**H3: – supported**
 
-**H4:** [to be completed]
+- We analysed 2,506 provoked and unprovoked incidents from 2000 onwards.
+- 2,274 were unprovoked (90.7%) and 232 were provoked (9.3%).
+- Most incidents happened without the person interacting with the shark.
+
+**H4: – supported**
+- Out of 2,506 incidents, 2,483 had a known outcome. The 23 with an unknown outcome were left out of the percentages.
+- 2,230 were non-fatal (89.8%) and 253 were fatal (10.2%).
+- Most shark incidents did not result in death.
 
 ## Limitations
 
@@ -62,16 +69,15 @@ We looked at the data from the point of view of a coastal tourism authority. The
 ## Files
 
 - `GSAF5.xls` – original dataset
-- `shark_attack_[name].ipynb` – notebook with the cleaning and analysis
+- `shark_attack_[name of each group member].ipynb` – notebook with the cleaning and analysis
 - `README.md` – this file
 
 ## Presentation
 
-Slides: [add link]
+Slides: [add after presentation]
 
 ## Team
 
-- [Name]
-- [Name]
-- [Name]
-- [Name]
+- Catarina Braga Macedo
+- Nwobodo Chiagoziem
+- Telma Guerreiro
